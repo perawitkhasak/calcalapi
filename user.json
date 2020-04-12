@@ -1,0 +1,38 @@
+{
+"user1" : {
+"name" : "Perawit",
+"password" : "123456",
+"email": "noon@gmail.com",
+"weight" : 72,
+"height" : 182,
+"case" : 2,
+"age" : 35,
+"gender":1,
+"id": 2
+
+
+},
+"user2" : {
+    "name" : "Siwakorn",
+    "password" : "123456",
+    "email": "noon@gmail.com",
+    "weight" : 57,
+    "height" :177,
+    "case" : 1,
+    "age" : 20,
+    "gender":2,
+    "id":1
+    
+},
+"user3" : {
+    "name" : "Pacharapol",
+    "password" : "123456",
+    "email": "noon@gmail.com",
+    "weight" : 45,
+    "height" : 170,
+    "case" : 3,
+    "age" : 18,
+    "gender":1,
+    "id" : 3
+}
+}
